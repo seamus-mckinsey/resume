@@ -1,16 +1,19 @@
-role,company,loc,dates,details
-"Data Analyst, Analytics & Insights Team Lead, Analytics & Insights Manager",Uber Eats,San Francisco,3/2017-present,"Hired, onboarded, and led a team of 5 data analysts delivering insights for Uber Eats Ops an Product"
-"Data Analyst, Analytics & Insights Team Lead, Analytics & Insights Manager",Uber Eats,San Francisco,3/2017-present,"Built strong team culture, developed team’s skills, and  as measured by top  manager survey score in the top 10% of managers"
-"Data Analyst, Analytics & Insights Team Lead, Analytics & Insights Manager",Uber Eats,San Francisco,3/2017-present,"Served as a strategic thought partner to executive leadership, including informing action plans fo million dollar P\&L line items"
-"Data Analyst, Analytics & Insights Team Lead, Analytics & Insights Manager",Uber Eats,San Francisco,3/2017-present,Increased visibility into OKRs and enabled teams to improve performance using automated R Markdow newsletters and reports and Shiny dashboards handling 10+ GB data
-"Data Analyst, Analytics & Insights Team Lead, Analytics & Insights Manager",Uber Eats,San Francisco,3/2017-present,"Developed, socialized, and implemented KPIs to improve customer experience and efficiency"
-"Data Analyst, Analytics & Insights Team Lead, Analytics & Insights Manager",Uber Eats,San Francisco,3/2017-present,TBD
-"Data Analyst, Analytics & Insights Team Lead, Analytics & Insights Manager",Uber Eats,"Washington, DC",3/2017-present,"Implemented and analyzed multiple experiments, including one on customer appeasements that recouped 0.5\% o revenue with minimal impact on user retention and satisfaction"
-"Data Analyst, Analytics & Insights Team Lead, Analytics & Insights Manager",Uber Eats,"Washington, DC",3/2017-present,Built 20+ ETL pipelines handling 100GB+ daily to simplify reporting and repeated analysis
-"Data Analyst, Analytics & Insights Team Lead, Analytics & Insights Manager",Uber Eats,"Washington, DC",3/2017-present,TBD
-"Consultant, Senior Consultant, Associate",Booz Allen Hamilton,"Washington, DC",7/2012 - 3/2017,Led practice transformation strategy for 30% of oncologists in USA and led a literature review and environmental scan to produce a comprehensive guide to evidence-based improveents
-"Consultant, Senior Consultant, Associate",Booz Allen Hamilton,"Washington, DC",7/2012 - 3/2017,"Developed and piloted a novel cost-benefit model of health qualit measures with a group of directors at HHS agencies, obtained $50k firm innovation funding to develop, and presented findings at 2015 INFORMS Conference"
-"Consultant, Senior Consultant, Associate",Booz Allen Hamilton,"Washington, DC",7/2012 - 3/2017,"Contributed to more than 30 proposals as proposal manager, technical led, and price lead"
-"Consultant, Senior Consultant, Associate",Booz Allen Hamilton,"Washington, DC",7/2012 - 3/2017,Developed best practices for health care quality improvement through cas studies on more than 50 leading programs in the US
-Lab Manager,Williams College,Williamstown MA,5/2011-6/2012,Designed and oversaw 5+ research projects and managed 8 research assistants
-Lab Manager,Williams College,Williamstown MA,5/2011-6/2012,Presented study findings to hundreds of students and faculty during campus-wide events 
+role,company,loc,dates,details,
+Analytics & Insights Manager,Uber Eats,San Francisco,9/2019 - present,Hired and onboarded 5 data analysts and led organization’s the highest performing team as measured by employee and stakeholder surveys,
+Analytics & Insights Manager,Uber Eats,San Francisco,9/2019 - present,"Developed actionable insights that guided $10M in customer experience, improved CSAT by 50% YoY, and reduced defect rates by 10% YoY",
+Analytics & Insights Manager,Uber Eats,San Francisco,9/2019 - present,Defined analytics team vision and OKRs across 5 business units; prioritized and managed workload through agile sprints,
+Analytics & Insights Team Lead,Uber Eats,San Francisco,4/2018 - 8/2019,"Developed and presented insights to a range of cross-functional stakeholders, from improvements to batching objective function or the web vs. mobile experience with Product to launching Uber Eat’s loyalty programs ",
+Analytics & Insights Team Lead,Uber Eats,San Francisco,4/2018 - 8/2019,"Automated OKR reporting using R Markdown reports and Shiny dashboards, serving 100+ users/month insights distilled from 10+ GB data",
+,,,,"to streamline reporting, automate key processes, and leverage statistical inference to improve recommendations and generate insights",
+,,,,Thought leader on a comply-wide initiative to reduce defect rate,
+,,,,"Thought partner to executive leadership and cross-functional partners, including root cause analysis for improvements to multi-million dollar P&L line items and $10M investment in improved customer experience",
+Analytics & Insights Team Lead,Uber Eats,San Francisco,4/2018 - 8/2019,"Developed, socialized, and implemented KPIs to improve customer experience and efficiency",
+Data Analyst,Uber Eats,"Washington, DC",3/2017-4/2018,"Implemented and analyzed multiple experiments, including one on customer appeasements that recouped 0.5% revenue and another that improved CSAT by over 30%",
+Data Analyst,Uber Eats,"Washington, DC",3/2017-4/2018,"Built 20+ ETL pipelines handling 100GB+ daily using Uber’s fork of Apache Airflow, saving 100s of hours of analyst time",
+Data Analyst,Uber Eats,"Washington, DC",3/2017-4/2018,"Modeled customer satisfaction, refund abuse, and impact of customer support experience on business outcomes using ",
+"Consultant, Senior Consultant, Associate",Booz Allen Hamilton,"Washington, DC",7/2012 - 3/2017,Led practice transformation strategy for 30% of practicing oncologists in US and wrote a comprehensive guide](https://innovation.cms.gov/files/x/ocm-keydrivers-changepkg.pdf) to evidence-based improvements based on a months-long literature review ,
+"Consultant, Senior Consultant, Associate",Booz Allen Hamilton,"Washington, DC",7/2012 - 3/2017,"Developed and piloted a novel cost-benefit model of health qualit measures with a group of directors at HHS agencies, obtained $50k firm innovation funding to develop, and presented findings at 2015 INFORMS Conference",
+"Consultant, Senior Consultant, Associate",Booz Allen Hamilton,"Washington, DC",7/2012 - 3/2017,"Contributed to more than 30 proposals worth over $15M as proposal manager, technical led, and price lead",
+"Consultant, Senior Consultant, Associate",Booz Allen Hamilton,"Washington, DC",7/2012 - 3/2017,Developed best practices for health care quality improvement through cas studies on more than 50 leading programs in the US,
+Lab Manager,Williams College,Williamstown MA,5/2011-6/2012,Designed and oversaw 5+ research projects and managed 8 research assistants,
+Lab Manager,Williams College,Williamstown MA,5/2011-6/2012,Presented study findings to hundreds of students and faculty during campus-wide events ,

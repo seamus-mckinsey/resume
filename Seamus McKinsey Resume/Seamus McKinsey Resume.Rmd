@@ -1,6 +1,6 @@
 ---
-name: Seamus
-surname: McKinsey
+name: 
+surname: Seamus McKinsey
 # position: "Analytics & Insights Manager at Uber Eats"
 # address: "1760 Golden Gate Ave #9, San Francisco, CA 94115"
 phone: +1 508 272 3248
@@ -25,17 +25,16 @@ exp
 
 ```
 
-# Some stuff about me
+# Skills
+**Programming**: Expert - R, SQL/HQL, Shiny; proficient - git, Linux/Unix shell, Python, HDFS; familiar - AWS, Docker
 
- * I poisoned myself doing research.
- * I was the first woman to win a Nobel prize
- * I was the first person and only woman to win a Nobel prize in two different sciences.
+**Methods**: Practiced in A/B testing, data visualization, ETL, statistical inference, econometrics, machine learning 
 
 # Experience
 
 ```{r}
 exp %>% 
-  detailed_entries(role, dates, company, loc, details )
+  detailed_entries(role, dates, company, loc, details)
 ```
 
 
@@ -44,9 +43,7 @@ exp %>%
 ```{r}
 tribble(
   ~ Degree, ~ Year, ~ Institution, ~ Where,
-  "Informal studies", "1889-91", "Flying University", "Warsaw, Poland",
-  "Master of Physics", "1893", "Sorbonne Université", "Paris, France",
-  "Master of Mathematics", "1894", "Sorbonne Université", "Paris, France"
+  "BA, Economics; BA, English", "2008-12", "Williams College", "Williamstown, MA"
 ) %>% 
   detailed_entries(Degree, Year, Institution, Where)
 ```
