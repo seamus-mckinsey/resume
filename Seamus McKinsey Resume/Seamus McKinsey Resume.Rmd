@@ -1,9 +1,9 @@
 ---
 name: 
 surname: Seamus McKinsey
-# position: "Analytics & Insights Manager at Uber Eats"
-# address: "1760 Golden Gate Ave #9, San Francisco, CA 94115"
-phone: +1 508 272 3248
+# position: "      "
+address: "  a"
+# phone: +1 508 272 3248
 www: seamus.netlify.app
 email: "seamus.mckinsey@gmail.com"
 github: seamus-mckinsey
@@ -26,7 +26,7 @@ exp
 ```
 
 # Skills
-**Programming**: Expert - R, SQL/HQL, Shiny; proficient - git, Linux/Unix shell, Python, HDFS; familiar - AWS, Docker
+**Programming**: Expert in R, SQL, Hive HQL, Shiny; proficient in git, Linux/Unix shell (zsh/bash), Python, HDFS/Hadoop
 
 **Methods**: Practiced in A/B testing, data visualization, ETL, statistical inference, econometrics, machine learning 
 
@@ -47,3 +47,13 @@ tribble(
 ) %>% 
   detailed_entries(Degree, Year, Institution, Where)
 ```
+
+# Presentations
+```{r}
+tribble(
+  ~ What, ~ Year, ~ Institution, ~ Where,
+  "Quality Measurement Model - Modeling Costs & Benefits of Health Care Quality Measurement", "2015", "INFORMS 2015", "Nashville, TN"
+) %>% 
+  detailed_entries(What, Year, Institution, Where)
+```
+
